@@ -185,6 +185,6 @@ This project was developed to improve cybersecurity awareness and demonstrate pr
 
 ## Author
 
-Name: ___________________
+Name: Ayush Sahu
 
 Python Challenge 2026
